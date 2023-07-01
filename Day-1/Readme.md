@@ -53,3 +53,9 @@ For example:
 
 By leveraging these kernel features, containers achieve strong isolation while sharing the host OS efficiently. This efficient utilization of resources, combined with portability and fast start-up times, makes containers a unique and powerful technology for modern application deployment and management.
 
+### Differences Between Virtual Machines and Containers
+
+<p align="center">
+  <img width="888" alt="Screenshot 2023-07-01 at 8 39 45 PM" src="https://github.com/guys-in-the-cloud/Docker-101/assets/100664099/353a956b-45fd-4ca8-8ff9-ef56cc687b26">
+</p>
+
