@@ -56,3 +56,9 @@ docker --version
 ```
 docker info
 ```
+## Root Directory of Docker
+The "root directory of Docker" refers to the location on the file system where Docker stores its data, including container images, volumes, and other internal files required to manage and run containers.
+```
+/var/lib/docker
+```
+
