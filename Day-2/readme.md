@@ -9,6 +9,11 @@ Docker is an open-source platform and a powerful tool for automating the deploym
   <img width="280" src= "https://github.com/gauravrattan/Docker-101/assets/100664099/cc18a2ea-972b-4ed2-bb9c-38c0241e045e" title="Docker">
 </p>
 
+## Alternatives of Docker:
+1.Podman <br />
+2.rkt (Rocket) <br />
+3.Containerd <br />
+
 ## Docker Architecture:
 Docker uses a client-server architecture. The Docker client talks to the Docker daemon, which does the heavy lifting of building, running, and distributing your Docker containers. The Docker client and daemon can run on the same system, or you can connect a Docker client to a remote Docker daemon. The Docker client and daemon communicate using a REST API, over UNIX sockets or a network interface.
 <p align="center">
