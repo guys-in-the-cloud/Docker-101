@@ -7,3 +7,5 @@ This repo will help you start your journey with one of the most recommending ski
 1. Journy to Containerization, it's important concepts & in-depth overview, how exactly it works behind the scene.
 2. Hands on labs & visulization for better understanding of the concepts
 3. Video playlist 
+
+## Keep Learning, Keep Growing...... See you in the Cloud :cloud: :cloud:
